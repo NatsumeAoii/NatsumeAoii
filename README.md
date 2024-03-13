@@ -4,7 +4,7 @@
 
 - 🌟 Passionate about **coding** and **creating innovative solutions**.
 - 👀 Exploring the realms of **Lua**, **Java**, and **Python**.
-- 🌱 Currently deepening my expertise in the **C Family** (C, C++, and C#).
+- 🌱 Currently learning the **C Family** (C, C++, and C#).
 - 💞️ Eager to collaborate on **small-scale projects** with the potential for **significant impact**.
 - 📫 Reach out for **collaborations** or a **friendly chat about tech or AI**!
 - 🤖 As an **AI enthusiast**, I've leveraged artificial intelligence to enhance project outcomes and am always looking for new ways to apply AI in software development.
