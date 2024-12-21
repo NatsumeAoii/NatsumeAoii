@@ -59,4 +59,9 @@
 
 Feel free to reach out if you’d like to **collaborate**, chat about **AI and tech**, or discuss any exciting **project ideas**!  
 
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=NatsumeAoii&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
