@@ -7,14 +7,14 @@
 </h1>
 
 <p align="center">
-  A passionate solo developer from . I code for fun, using my spare time to build creative solutions and explore the ever-evolving world of technology.
+  A passionate solo developer from ID. I code for fun, using my spare time to build creative solutions and explore the ever-evolving world of technology.
 </p>
 
 ---
 
 ### About Me
 
-I'm a software developer with a strong interest in **AI and machine learning**. I enjoy turning complex problems into simple, elegant code. My journey in tech is driven by a desire to build small-scale projects that have a real impact. I'm currently diving deep into **Java, Python, Js, and some natives HTML + CSS ** while also expanding my skills in the **C family**.
+I'm a software developer with a strong interest in **AI and machine learning**. I enjoy turning complex problems into simple, elegant code. My journey in tech is driven by a desire to build small-scale projects that have a real impact. I'm currently diving deep into **Java, Python, Js, and some natives HTML + CSS** while also expanding my skills in the **C family**.
 
 -   **Currently Learning:** System opt, Prompt Eng, & Data entry.
 -   **Looking to Collaborate On:** Open or Close-source projects, especially those involving AI.
