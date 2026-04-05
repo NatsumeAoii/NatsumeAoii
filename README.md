@@ -1,77 +1,92 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
 
-<h1 align="center">
-  Hi, I'm NatsumeAoii
-</h1>
+<h1 align="center">NatsumeAoii</h1>
 
 <p align="center">
-  A passionate solo developer from ID. I code for fun, using my spare time to build creative solutions and explore the ever-evolving world of technology.
+  Building useful things, learning in public, and exploring how AI can improve the way software is designed and developed.
 </p>
-
----
-
-### About Me
-
-I'm a software developer with a strong interest in **AI and machine learning**. I enjoy turning complex problems into simple, elegant code. My journey in tech is driven by a desire to build small-scale projects that have a real impact. I'm currently diving deep into **Java, Python, Js, and some natives HTML + CSS** while also expanding my skills in the **C family**.
-
--   **Currently Learning:** System opt, Prompt Eng, & Data entry.
--   **Looking to Collaborate On:** Open or Close-source projects, especially those involving AI.
--   **Seeking Help With:** Basic to Advance concepts in C Fam programming.
--   **Ask Me About:** Software development using an AI as an additional option & Overwatch 2!.
--   **How to Reach Me:** wardana.dwi.mulia@gmail.com
--   **Fun Fact:** Beyond gaming, I'm deeply interested in prompt engineering and actively exploring how to leverage different AI platforms for innovative solutions.
-
----
-
-### My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,java,lua,php,html,css,js,nodejs,bootstrap,git,discordjs,bots" />
-  </a>
-</p>
-
----
-
-### My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/NatsumeAoii">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=NatsumeAoii&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=NatsumeAoii&theme=radical&hide_border=false" alt="Github Streak"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatsumeAoii&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NatsumeAoii&theme=onedark" alt="GitHub Trophies"/>
+    <img src="https://komarev.com/ghpvc/?username=NatsumeAoii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-### Connect With Me
+## Profile
+
+I am a solo developer from Indonesia with a strong interest in practical software development, AI, and machine learning.
+
+Most of my work starts with curiosity: testing ideas, simplifying messy problems, and turning small concepts into working projects. I enjoy building with clear logic, clean structure, and tools that are actually useful.
+
+---
+
+## Focus
+
+- Building small and practical software projects
+- Learning more about AI-assisted development
+- Improving problem solving in lower-level programming
+- Exploring better workflows for optimization and prompt design
+
+---
+
+## Current Direction
+
+- **Learning:** system optimization, prompt engineering, and data workflows  
+- **Improving:** JavaScript, Python, Java, and C-family fundamentals  
+- **Interested in:** AI tools, software architecture, and development efficiency  
+- **Open to:** open-source and private collaborations, especially technical or AI-related work  
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <a href="https://crowdin.com/profile/NatsumeAoii" target="_blank"><img src="https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white" alt="Crowdin"></a>
-  <a href="https://discord.com/users/559450677802172421" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:wardana.dwi.mulia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,py,java,lua,php,html,css,js,nodejs,bootstrap,git,discordjs" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
 
-### Daily Inspiration
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## GitHub Activity
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img height="160" src="https://streak-stats.demolab.com?user=NatsumeAoii&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NatsumeAoii&theme=github-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## Notes
+
+- I like writing code that stays readable
+- I use AI as a tool to improve workflow, not as a substitute for understanding
+- I am especially interested in projects where experimentation leads to something practical
+- Outside development, I also enjoy Overwatch 2
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://crowdin.com/profile/NatsumeAoii" target="_blank">
+    <img src="https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white" alt="Crowdin" />
+  </a>
+  <a href="https://discord.com/users/559450677802172421" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:wardana.dwi.mulia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 </p>
